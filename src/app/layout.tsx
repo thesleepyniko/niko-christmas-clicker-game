@@ -27,6 +27,9 @@ const playFair = Playfair({
 export const metadata: Metadata = {
   title: "niko clicker game!",
   description: "pat the niko :3",
+  icons : {
+    icon: "/nikojolly.png"
+  }
 };
 
 export default function RootLayout({
